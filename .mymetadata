@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="ckservice"
-  id="myeclipse.1341665251332"
-  context-root="/ckservice"
+  name="nhdoc3"
+  id="myeclipse.1298613858875"
+  context-root="/nhdoc3"
   j2ee-spec="5.0"
-  archive="ckservice.war">
+  archive="nhdoc3.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
